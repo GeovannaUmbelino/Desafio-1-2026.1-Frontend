@@ -5,7 +5,7 @@ Este repositório contém a minha entrega para o Desafio 1 da trilha de capacita
 ---
 
 ## 🔗 Acessos do Projeto
-- **GitHub Pages:** [Insira o link aqui]
+- **GitHub Pages:** [https://geovannaumbelino.github.io/Desafio-1-2026.1-Frontend/](https://geovannaumbelino.github.io/Desafio-1-2026.1-Frontend/)
 - **Design & Planejamento (Figma):** [https://www.figma.com/Geovanna-Alves-Umbelino](https://www.figma.com/site/5d4uFZKIzgNbzrjZjyW9pH/Curr%C3%ADculo---Geovanna-Alves-Umbelino?node-id=0-1&t=Kzhhxjg3Slp118bn-1)
 
 ---
