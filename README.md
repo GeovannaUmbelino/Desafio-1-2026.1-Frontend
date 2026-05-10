@@ -1,47 +1,55 @@
-# Desafio 1 - Currículo com HTML e CSS
+# 🎓 Currículo Web Interativo - Geovanna Umbelino
 
-O desafio consiste na criação do currículo pessoal como uma página web. O objetivo é avaliar os conhecimentos de HTML e CSS.
+Este repositório contém a minha entrega para o Desafio 1 da trilha de capacitação em Front-end da **EngNet Consultoria**. O projeto consiste em um currículo web responsivo, desenvolvido do zero para ir além do estático e oferecer uma experiência interativa.
 
-Caso surjam dúvidas, você pode utilizar o canal da capacitação no slack, contatar algum membro ou conversar com seu squad.
+---
 
-Você deve realizar um [fork](https://docs.github.com/en/get-started/quickstart/fork-a-repo) deste repositório para sua conta pessoal no GitHub. A entrega só será considerada válida se estiver incluída em uma [release](https://docs.github.com/en/repositories/releasing-projects-on-github/about-releases) no GitHub. Se o candidato não souber como realizar um Fork, Commit, Push e uma Release no GitHub, deverá pesquisar ou pedir ajuda. O desafio também avaliará sua independência.
+## 🔗 Acessos do Projeto
+- **GitHub Pages:** [Insira o link aqui]
+- **Design & Planejamento (Figma):** [https://www.figma.com/Geovanna-Alves-Umbelino](https://www.figma.com/site/5d4uFZKIzgNbzrjZjyW9pH/Curr%C3%ADculo---Geovanna-Alves-Umbelino?node-id=0-1&t=Kzhhxjg3Slp118bn-1)
 
-## Requisitos funcionais
+---
 
-- O currículo deve conter o seu nome e uma foto sua.
-- Links para o email, GitHub e LinkedIn devem estar presentes na página.
-  - Ao clicar nos links, a página deve ser aberta em uma nova aba.
-- As suas experiências profissionais devem ser apresentadas (ser trainee também é uma experiência profissional).
-- A sua formação acadêmica deve ser exibida.
-- Em algum lugar da página, uma lista contendo as suas habilidades chave deve estar presente.
+## 🎨 Identidade Visual e Cores
 
-## Requisitos não-funcionais
+Seguindo a proposta de manter uma identidade visual consistente para o grupo, utilizei a paleta base em **Laranja**, aplicando variações para garantir contraste e hierarquia visual.
 
-- O candidato deve utilizar apenas HTML e CSS para solucionar o desafio, sendo proibido utilizar bibliotecas de CSS, como Bootstrap, Tailwind, entre outras.
-- A utilização de javascript é permitida, mas é opcional.
-- O código do projeto deve ser organizado, indentado e legível. Tão importante quanto um programa funcional é um código fonte fácil de modificar e entender.
-- Um exemplo de curriculo:
-    [curriculo](./assets/curriculo.pdf)
+**Tons sugeridos utilizados:**
+- `#FFA500` (Laranja Original - Destaque de Skills)
 
-## Desafio extra
+**Tons personalizados adicionados:**
+- `#e65c00` (Laranja Intenso - Cor primária no Modo Claro)
+- `#ff7300` (Laranja Vibrante - Cor primária no Modo Escuro)
 
-- Caso tenha interesse, faça um currículo mais bonito que o exemplo dado.
-  - Você poderá usar qualquer tag ou display presente no html e css, mas ainda não poderá utilizar bibliotecas de CSS.
+---
 
-## Links
+## 📌 O que compõe este currículo?
 
-- Link do repositório com todos os comandos de git e github:
+A página foi estruturada para que a leitura seja rápida e escaneável, dividida nos seguintes eixos:
 
-    https://gist.github.com/leocomelli/2545add34e4fec21ec16
+* **Perfil e Conexões:** Minha apresentação inicial, foto e acessos diretos (em nova aba) para o meu LinkedIn, GitHub e E-mail.
+* **Experiências e Projetos:** Uma vitrine central que reúne minha trajetória prática. Aqui, consolidei minha atuação como Trainee na EngNet, desenvolvimento de aplicações Full Stack, liderança em projetos mobile e contribuições acadêmicas em um só lugar.
+* **Formação Técnica:** Detalhes sobre a minha graduação em Engenharia de Software na UnB e meu ensino médio técnico.
+* **Idiomas:** Nível de proficiência nas línguas que domino.
 
-- Link do w3school:
+---
 
-    https://www.w3schools.com/js/default.asp
+## 💡 O Diferencial: Skills Interativas 
 
+Funciona assim: dentro de cada card de "Experiência", você verá **botões das tecnologias utilizadas** (ex: HTML, CSS, Python, etc.). 
+1. Ao clicar em um desses botões, a página rola suavemente para o topo.
+2. O painel principal de **Skills** é acionado.
+3. Os gráficos circulares se atualizam dinamicamente para mostrar **exatamente a porcentagem de contribuição** que aquele projeto teve no meu aprendizado daquela tecnologia.
 
-## Entrega
+*(Além disso, a interface possui um seletor de **Dark/Light Mode** para conforto visual e respeito às preferências do usuário).*
 
-- A entrega do desafio deve ser realizada através de uma Release no GitHub.
-  - Crie a release no seu repositório pessoal e envie o zip pelo google classroom.
-- O candidato não deve excluir o repositório e nem a release após a entrega, pois a utilização do GitHub será avaliada.
+---
 
+## 🛠️ Aspectos Técnicos 
+- **HTML5 & CSS3:** Layout construído sem frameworks (como Tailwind ou Bootstrap), cumprindo os requisitos funcionais e não-funcionais do desafio.
+- **JavaScript:** Responsável pela interatividade dos gráficos e alternância de temas.
+- **Responsividade:** Estrutura fluida que se adapta perfeitamente a dispositivos móveis e desktops.
+- **Boas Práticas:** Código semântico, indentado e organizado, com atenção aos detalhes de acessibilidade.
+- **Acessibilidade e Semântica:** Uso de tags semânticas para facilitar leitores de tela, navegação por teclado otimizada e integração com o widget **VLibras** para inclusão digital.
+
+---
