@@ -1,6 +1,6 @@
 # 🎓 Currículo Web Interativo - Geovanna Umbelino
 
-Este repositório contém a minha entrega para o Desafio 1 da trilha de capacitação em Front-end da **EngNet Consultoria**. O projeto consiste em um currículo web responsivo, desenvolvido do zero para ir além do estático e oferecer uma experiência interativa.
+Este repositório contém a minha entrega para o Desafio 1 da trilha de capacitação em Front-end da **EngNet Consultoria**. O projeto consiste em um currículo web responsivo, desenvolvido para ir além do estático e oferecer uma experiência interativa.
 
 ---
 
